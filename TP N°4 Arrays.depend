@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1682285878 source:d:\programación\programación y laboratorio i\tp n°4 arrays\tp n°4 arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112217 source:d:\programación\programación y laboratorio i\tp n°4 arrays\tp n°4 arrays\pila.c
+	"pila.h"
+
+1490112217 d:\programación\programación y laboratorio i\tp n°4 arrays\tp n°4 arrays\pila.h
+	<stdio.h>
+	<malloc.h>
+
